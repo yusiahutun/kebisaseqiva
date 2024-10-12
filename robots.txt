@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://kebisaseqiva.pages.dev/sitemap.xml
